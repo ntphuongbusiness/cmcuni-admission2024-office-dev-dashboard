@@ -31,7 +31,7 @@ Mở TuyenSinh_Online.pbix bằng Power BI Desktop.
 ---
 ## 🖼 Ảnh minh họa Dashboard
 - Trang tổng quan
-![Trang tổng quan](images/tong_quan.png)
+- <img src="images/tong_quan.png" alt="Trang tổng quan" width="600">
 
 - Chế độ lọc: theo ngày/tháng
 ![Chế độ lọc: theo ngày/tháng](images/filter.png)
