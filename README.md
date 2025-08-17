@@ -21,8 +21,7 @@ Dashboard giúp phòng Tuyển sinh theo dõi, phân tích và trình bày số 
    git clone https://github.com/ntphuongbusiness/cmcuni-admission2024-office-dev-dashboard.git
 2. Mở file Power BI
 Mở TuyenSinh_Online.pbix bằng Power BI Desktop.
-
-*Nếu Power BI yêu cầu cập nhật đường dẫn dữ liệu, bỏ qua (vì file dùng dữ liệu demo).*
+- Nếu Power BI yêu cầu cập nhật đường dẫn dữ liệu, bỏ qua (vì file dùng dữ liệu demo).
 
 4. Khám phá Dashboard
 - Xem các chỉ số tuyển sinh tổng quan.
@@ -31,22 +30,22 @@ Mở TuyenSinh_Online.pbix bằng Power BI Desktop.
 
 ---
 ## 🖼 Ảnh minh họa Dashboard
-- ***Trang tổng quan***
+- **TRANG TỔNG QUAN**
 <img src="images/tong_quan.png" alt="Trang tổng quan" width="800">
 
-- ***Chế độ lọc: theo ngày/tháng***
+- **CHẾ ĐỘ LỌC: THEO NGÀY/THÁNG**
 <img src="images/filter.png" alt="Chế độ lọc: theo ngày/tháng" height="300">
 
-- ***Số data (phiếu thông tin) thu được***
+- **SỐ DATA (PHIẾU THÔNG TIN) THU ĐƯỢC**
 <img src="images/data.png" alt="Số data (phiếu thông tin) thu được" width="800">
 
-- ***Số trường đã đi tuyển sinh***
+- **SỐ TRƯỜNG ĐÃ ĐI TUYỂN SINH**
 <img src="images/so_truong.png" alt="Số trường đã đi tuyển sinh" width="800">
 
-- ***Số hồ sơ nguồn trực tiếp***
+- **SỐ HỒ SƠ NGUỒN TRỰC TIẾP**
 <img src="images/ho_so_nguon_truc_tiep.png" alt="Số hồ sơ nguồn trực tiếp" width="800">
 
-- ***Số hồ sơ trúng tuyển nguồn trực tiếp***
+- **SỐ HỒ SƠ TRÚNG TUYỂN NGUỒN TRỰC TIẾP**
 <img src="images/ho_so_trung_tuyen_nguon_tt.png" alt="Số hồ sơ trúng tuyển nguồn trực tiếp" width="800">
 
 ---
