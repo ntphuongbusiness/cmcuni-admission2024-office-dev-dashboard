@@ -30,17 +30,22 @@ Mở TuyenSinh_Online.pbix bằng Power BI Desktop.
 
 ---
 ## 🖼 Ảnh minh họa Dashboard
+- Trang tổng quan
+![Trang tổng quan](images/tong_quan.png)
 
-![Trang tổng quan](images/tong_quan.png)  
+- Chế độ lọc: theo ngày/tháng
+![Chế độ lọc: theo ngày/tháng](images/filter.png)
 
-![Chế độ lọc: theo ngày/tháng](images/filter.png)  
-
+- Số data (phiếu thông tin) thu được
 ![Số data (phiếu thông tin) thu được](images/data.png)
 
-![Số trường đã đi tuyển sinh](images/so_truong.png)  
+- Số trường đã đi tuyển sinh
+![Số trường đã đi tuyển sinh](images/so_truong.png)
 
-![Số hồ sơ nguồn trực tiếp](images/ho_so_nguon_truc_tiep.png)  
+- Số hồ sơ nguồn trực tiếp
+![Số hồ sơ nguồn trực tiếp](images/ho_so_nguon_truc_tiep.png)
 
+- Số hồ sơ trúng tuyển nguồn trực tiếp
 ![Số hồ sơ trúng tuyển nguồn trực tiếp](images/ho_so_trung_tuyen_nguon_tt.png)
 
 ---
