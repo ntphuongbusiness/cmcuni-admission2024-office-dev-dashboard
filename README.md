@@ -40,7 +40,7 @@ Mở TuyenSinh_Online.pbix bằng Power BI Desktop.
 - <img src="images/data.png" alt="Số data (phiếu thông tin) thu được" width="800">
 
 - Số trường đã đi tuyển sinh
-- <img src="images/so_truong.png" alt="Số trường đã đi tuyển sinh" height="100">
+- <img src="images/so_truong.png" alt="Số trường đã đi tuyển sinh" height="300">
 
 - Số hồ sơ nguồn trực tiếp
 - <img src="images/ho_so_nguon_truc_tiep.png" alt="Số hồ sơ nguồn trực tiếp" width="800">
