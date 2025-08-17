@@ -21,9 +21,9 @@ Dashboard giúp phòng Tuyển sinh theo dõi, phân tích và trình bày số 
    git clone https://github.com/ntphuongbusiness/cmcuni-admission2024-office-dev-dashboard.git
 2. Mở file Power BI
 Mở TuyenSinh_Online.pbix bằng Power BI Desktop.
-> Nếu Power BI yêu cầu cập nhật đường dẫn dữ liệu, bỏ qua (vì file dùng dữ liệu demo).
+*Nếu Power BI yêu cầu cập nhật đường dẫn dữ liệu, bỏ qua (vì file dùng dữ liệu demo).*
 
-3. Khám phá Dashboard
+4. Khám phá Dashboard
 - Xem các chỉ số tuyển sinh tổng quan.
 - Lọc dữ liệu theo ngày, tháng, mục đích(xem data, số trường, số hồ sơ)
 - Xuất báo cáo hoặc chụp ảnh màn hình để phục vụ báo cáo nhanh.
